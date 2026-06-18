@@ -1,0 +1,27 @@
+{
+  "name": "nexdrop-backend",
+  "version": "1.0.0",
+  "description": "NexDrop - File sharing platform backend",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file-sharing",
+    "realtime"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@fastify/cors": "^11.2.0",
+    "cors": "^2.8.6",
+    "fastify": "^5.8.5",
+    "joi": "^18.2.3",
+    "multer": "^2.2.0",
+    "socket.io": "^4.8.3",
+    "uuid": "^14.0.0"
+  }
+}
