@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NexDrop - Fast File Sharing Platform
 
 A production-ready, real-time file-sharing platform built for the IIT Bombay Hackathon. Share files instantly with your team with zero authentication friction and lightning-fast synchronization.
@@ -267,3 +268,6 @@ For issues or questions:
 ---
 
 **Built with ❤️ for the IIT Bombay Hackathon**
+=======
+# nex-drop-file-share
+>>>>>>> bffb455426ea3fd589fcbe69ebeb3a96756e9ac5
